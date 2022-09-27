@@ -1,2 +1,3 @@
 # WyvernArtFund.github.io
-Wyvern Art Fund Web1site
+Hi! Good to see you here at _Wyvern Art Fund_
+Please make yourself feel at home :>
