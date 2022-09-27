@@ -15,7 +15,7 @@
 # in the templates via {{ site.myvariable }}.
 title: Wyvern Art Fund
 email: info@wyv.art
-description: Hey! Good to see you here at _Wyvern's digital community space_. Please make yourself feel at home!
+description: Hey! Good to see you here at Wyvern's Digital Community Space. Please make yourself feel at home!
 baseurl: "" # 
 url: "" # the base hostname & protocol for your site, e.g. http://wyv.art
 
