@@ -36,5 +36,8 @@ gem "wdm", "~> 0.1.0", :install_if => Gem.win_platform?
 # kramdown v1, comment out this line.
 gem "kramdown-parser-gfm"
 
+#adding webrick gem for older jekyll version local testing
+gem "webrick"
+
 #faraday-retry for the auto generating fix
 gem 'faraday-retry'
