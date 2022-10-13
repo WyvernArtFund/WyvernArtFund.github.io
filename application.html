@@ -1,0 +1,31 @@
+---
+layout: application portal
+---
+
+<!DOCTYPE html>
+    <html>
+    <head>
+        <style>
+            @import url('https://fonts.googleapis.com/css2?family=IBM+Plex+Mono:wght@300;500&family=Silkscreen&display=swap');
+            @import url('https://fonts.googleapis.com/css2?family=Cairo&family=IBM+Plex+Mono:wght@300;500&family=Silkscreen&display=swap');
+            </style>
+    </head>
+    <body style="background-color: rgba(202, 202, 202, 0.866);">
+
+    <h1 style="font-family: 'Silkscreen', cursive; font: size 40px; color:rgba(59, 48, 220, 0.661);">Create An Application</h1>
+
+    <form>
+        <fieldset form="user_regn" name="user_details"> 
+        <label for="fname"style="font-family:'Cairo', sans-serif">First name:</label>
+        <input type="text" id="fname" name="fname"><br><br>
+        <label for="lname"style="font-family:'Cairo', sans-serif">Last name:</label>
+        <input type="text" id="lname" name="lname"><br><br>
+        <label for="email"style="font-family:'Cairo', sans-serif">Email:</label>
+        <input type="email" id="email" name="email"><br><br>
+        <label for="birthday"style="font-family:'Cairo', sans-serif">Birthday:</label>
+        <input type="date" id="birthday" name="birthday"><br><br>
+        </fieldset>
+        <input type="submit" value="Submit" style="font-family:'Cairo', sans-serif">
+    </form>
+    </body>
+    </html>
