@@ -1,0 +1,18 @@
+@import url('https://fonts.googleapis.com/css2?family=IBM+Plex+Mono:wght@300;500&family=Silkscreen&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Cairo&family=IBM+Plex+Mono:wght@300;500&family=Silkscreen&display=swap');
+
+body{
+    background-color: rgba(202, 202, 202, 0.866);
+    font-family: 'Cairo', sans-serif; 
+    color:#000000;
+}
+
+h1{
+    font-family: 'Silkscreen', cursive;
+    font: size 40px;
+    color:rgba(59, 48, 220, 0.661)
+}
+
+p{
+    font-family: 'Cairo', sans-serif; 
+}
