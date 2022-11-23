@@ -1,17 +1,21 @@
 @import url('https://fonts.googleapis.com/css2?family=IBM+Plex+Mono:wght@300;500&family=Silkscreen&display=swap');
 @import url('https://fonts.googleapis.com/css2?family=Cairo&family=IBM+Plex+Mono:wght@300;500&family=Silkscreen&display=swap');
-
+@import url('https://fonts.googleapis.com/css2?family=Abel&family=Cairo&family=Silkscreen&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Abel&family=Cairo&family=Quicksand:wght@500&family=Silkscreen&display=swap" rel="stylesheet');
 
 body{
     background-image:url("images/5-2.png");
     background-size: 10%;
     background-blend-mode:overlay;
     background-position: center;
-    background-color: rgba(202, 202, 202, 0.866);
+    background-color: rgba(202, 202, 202, 0.778);
     font-family: 'Cairo', sans-serif; 
     color:#000000;
     text-align: center;
     margin-top: 70px;
+    margin-right:243px;
+    margin-left:243px;
+    margin-bottom:70px;
 }
 
 h1{
@@ -21,5 +25,8 @@ h1{
 }
 
 p{
-    font-family: 'Cairo', sans-serif; 
+    font-family: 'Quicksand', sans-serif;
+    font-weight:25;
+    font-size:20px;
+    text-align: left;
 }
