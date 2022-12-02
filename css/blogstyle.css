@@ -10,17 +10,30 @@ body{
     background-color: rgba(210, 186, 195, 0.892);
     font-family: 'Cairo', sans-serif; 
     color:#000000;
-    text-align: center;
-    margin-top: 170px;
-}   
+    text-align: left;
+    margin-top: 30px;
+    margin-left: 30px;
+}
 
 
 h1{
     font-family: 'Silkscreen', cursive;
-    font-size:70px;
+    font-size:43px;
     color:rgba(109, 100, 241, 0.913);
+}
+
+h2{
+    font-family: 'Cairo', sans-serif;
+    font-size:25px;
+    color:black
 }
 
 p{
     font-family: 'Silkscreen', cursive;
 }
+
+.square {
+    background-color: rgba(156, 224, 89, 0.775);
+    width: 450px;
+    height: 150px;
+  }
